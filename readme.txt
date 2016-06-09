@@ -29,8 +29,8 @@ This plugin was originally developed for the [globe - Community of Digital Learn
 == Installation ==
 
 1. Upload, activate and configure the free [BadgeOS plugin](http://wordpress.org/extend/plugins/badgeos/ "BadgeOS") to WordPress.
-3. Upload 'BadgeOS-BuddyPress-Follow-Add-on' to the '/wp-content/plugins/' directory
-4. Activate the plugin through the 'Plugins' menu in WordPress
+2. Upload 'BadgeOS-BuddyPress-Follow-Add-on' to the '/wp-content/plugins/' directory
+3. Activate the plugin through the 'Plugins' menu in WordPress
 
 = 1.0.0 =
 * Initial release
