@@ -1,0 +1,10 @@
+{
+  "name": "konnektiv/badgeos-buddypress-follow-add-on",
+  "description": "Add-on for BadgeOS which adds triggers for the BuddyPress Follow plugin.",
+  "type": "wordpress-plugin",
+  "license": "AGPL-3.0",
+  "require": {
+    "composer/installers": "~1.0",
+    "php": ">=5.2.4"
+  }
+}
