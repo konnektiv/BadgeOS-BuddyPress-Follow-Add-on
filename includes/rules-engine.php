@@ -11,7 +11,8 @@ add_action( 'bp_follow_start_following',  function( $follow ) {
 } );
 
 add_filter( 'badgeos_trigger_get_user_id', function( $user_id, $trigger, $args ){
-    if ( 'badgeos_bp_follow_new_follower' == $trigger )
-		return absint( $args );
+    if ( 'badgeos_bp_follow_new_follower' == $trigger ) {
+		return absint( $args[0] );
+    }
 	return $user_id;
 }, 10, 3 );
