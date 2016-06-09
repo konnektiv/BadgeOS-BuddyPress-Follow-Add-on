@@ -13,11 +13,13 @@ This BadgeOS Add-on adds triggers for the BuddyPress Follow plugin.
 
 This BadgeOS Add-on adds triggers for the BuddyPress Follow plugin. It supports triggers for following someone as well as for receiving a new follower. It is fully integrated with the BadgeOS steps ui editor.
 
-**Note:** You will need to install the free [BadgeOS plugin](http://wordpress.org/extend/plugins/badgeos/ "BadgeOS")&trade; (version 1.4 or higher) and the free [BuddyPress plugin](http://wordpress.org/extend/plugins/buddypress/ "BuddyPress") (version 2.2.1 or higher) to use the BadgeOS BuddyPress Follow Add-On.
+**Note:** You will need to install the free [BadgeOS plugin](http://wordpress.org/extend/plugins/badgeos/ "BadgeOS")&trade; (version 1.4 or higher), the free [BuddyPress plugin](http://wordpress.org/extend/plugins/buddypress/ "BuddyPress") (version 2.2.1 or higher) and the free [BuddyPress Follow plugin](http://wordpress.org/extend/plugins/buddypress-followers/ "BuddyPress Follow") to use the BadgeOS BuddyPress Follow Add-On.
 
 [Get the BadgeOS plugin](http://wordpress.org/extend/plugins/badgeos/ "BadgeOS").
 
 [Get the BuddyPress plugin](http://wordpress.org/extend/plugins/buddypress/ "BuddyPress").
+
+[Get the BuddyPress Follow plugin](http://wordpress.org/extend/plugins/buddypress-followers/ "BuddyPress Follow").
 
 This plugin was originally developed for the [globe - Community of Digital Learning](https://quality4digitallearning.org/) on behalf of [GIZ](https://www.giz.de/).
 
